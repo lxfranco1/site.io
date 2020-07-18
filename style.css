@@ -1,0 +1,12 @@
+body {
+    height: 100vh;
+    background-size: cover;
+    background-color:gray
+
+
+;
+    font-family: sans-serif;
+    margin-top: 80px;
+    padding: 0px;
+    background-repeat:no-repeat
+}
